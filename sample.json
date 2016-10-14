@@ -1,0 +1,11 @@
+[{"name":"PAQUITA  ","description":"mare 1978  ","reg":"HOLST 210089678 ","dam":535,"sire":534,"id":533,"sex":"mare","yob":1978,"color":"","height":"","breed":"HOLST"},
+{"name":"ROMANTIKER  ","description":"stallion 1971 darkbrown 1.71m","reg":"HOLST DE321210404771 ","lic":["SWB","HOLST"],"dam":536,"sire":127,"id":534,"sex":"stallion","yob":1971,"color":"darkbrown","height":"1.71m","breed":"HOLST"},
+{"name":"BIWITTA  ","description":"mare 1965  ","reg":"HOLST 210377103 Hauptstutbuch","dam":538,"sire":537,"id":535,"sex":"mare","yob":1965,"color":"","height":"","breed":"HOLST"},
+{"name":"DEDY  ","description":"mare 1967 brown 1.68m","reg":"HOLST 210446403 Hauptstutbuch","dam":9726,"sire":1187,"id":536,"sex":"mare","yob":1967,"color":"brown","height":"1.68m","breed":"HOLST"},
+{"name":"FRIVOL XX  ","description":"stallion 1946 brown ","reg":"xx 060001946 ","lic":["xx"],"dam":8028,"sire":8027,"id":537,"sex":"stallion","yob":1946,"color":"brown","height":"","breed":"xx"},
+{"name":"CIWITTA  ","description":"mare 1944  ","reg":"HOLST 210337203 Hauptstutbuch","dam":138459,"sire":8383,"id":538,"sex":"mare","yob":1944,"color":"","height":"","breed":"HOLST"},
+{"name":"CELANO  ","description":"stallion 1988 grey 1.71m","reg":"HOLST DE321210022488 keur","lic":["SATHU","KWPN","OLDBG","OS"],"dam":548,"sire":447,"id":539,"sex":"stallion","yob":1988,"color":"grey","height":"1.71m","breed":"HOLST"},
+{"name":"CORPORAL  ","description":"stallion 1963 brown ","reg":"HOLST DE321210386463 ","lic":["HOLST"],"dam":542,"sire":143,"id":540,"sex":"stallion","yob":1963,"color":"brown","height":"","breed":"HOLST"},
+{"name":"RETINA (LAERCHE)  ","description":"mare 1952 grey 1.75m","reg":"HOLST DE321210422403 ","dam":543,"sire":141,"id":541,"sex":"mare","yob":1952,"color":"grey","height":"1.75m","breed":"HOLST"},
+{"name":"GIMARA (HIMARA II)  ","description":"mare 1948  ","reg":"HOLST 210117603 ","dam":19480,"sire":14848,"id":542,"sex":"mare","yob":1948,"color":"","height":"","breed":"HOLST"},
+{"name":"DOLLI  ","description":"mare 1945 brown ","reg":"HOLST 210269803 ","dam":15163,"sire":4736,"id":543,"sex":"mare","yob":1945,"color":"brown","height":"","breed":"HOLST"}]
