@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/julia-allyce/horse-data-viz.svg)](https://greenkeeper.io/)
+
 Run `npm install`
 and serve this directory using something like http-server to run the page. :)
 
